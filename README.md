@@ -7,7 +7,7 @@ Jiaming Liu
 Atharva Nilapwar
 Julia Tan
 ~~~
-https://pages.github.khoury.northeastern.edu/nilapwara/4200-project/
+[Link to Website](https://pages.github.khoury.northeastern.edu/nilapwara/4200-project/)
 Our webpage features 3 static plots (violin plot, heatmap, and bar chart using D3;
 We created 2 interactive visualizations, one scatter plot made with altair, and a map utlizing geopandas). 
 
