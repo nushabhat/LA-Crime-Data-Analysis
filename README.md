@@ -2,10 +2,10 @@
 Information Presentation and Visualization - DS4200
 --
 ~~~
-Atharva Nilapwar
 Nusha Bhat
-Julia Tan
 Jiaming Liu
+Atharva Nilapwar
+Julia Tan
 ~~~
 Our webpage features 3 static plots (violin plot, heatmap, and bar chart using D3;
 We created 2 interactive visualizations, one scatter plot made with altair, and a map utlizing geopandas). 
