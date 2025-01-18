@@ -1,6 +1,5 @@
 # LA Crime Data Analysis
 Information Presentation and Visualization - DS4200
-Welcome to our DS4200 - Information Presentation and Visualization Project Repo !!
 --
 ~~~
 Atharva Nilapwar
